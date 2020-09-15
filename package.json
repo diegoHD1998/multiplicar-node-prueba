@@ -1,0 +1,14 @@
+{
+  "name": "03-base-node",
+  "version": "1.0.0",
+  "description": "obtener parametro en consola",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Muñoz",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.0.3"
+  }
+}
